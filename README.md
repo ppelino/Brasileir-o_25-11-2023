@@ -1,4 +1,4 @@
-# Brasileir-o_25-11-2023
+# Brasileirao_25-11-2023
 
 Para extrair dados de uma planilha XLSX e criar estatísticas juntamente com gráficos de desempenho usando Python, você pode seguir os passos abaixo. Antes de começar, é necessário ter o Python e as bibliotecas pandas, seaborn e matplotlib instaladas. Se você não possui essas bibliotecas, pode instalá-las usando o pip:
 pip install pandas seaborn matplotlib
