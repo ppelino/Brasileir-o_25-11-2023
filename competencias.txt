@@ -1,0 +1,26 @@
+Controle de Frequência: Permitir a contagem das palavras e exibir as mais frequentes de acordo com o tamanho da fonte na nuvem.
+
+Customização: Oferecer opções para personalizar a aparência da nuvem, como escolha de cores, tipos de fonte, layout, orientação e formato.
+
+Exclusão de Palavras: Permitir a exclusão de palavras específicas (stop words) que não devem ser incluídas na nuvem, como artigos, preposições e outras palavras comuns.
+
+Fontes de Dados Diversas: Aceitar diferentes fontes de dados, como textos, páginas da web, arquivos PDF, feeds RSS, entre outros.
+
+Escalabilidade: Lidar com grandes volumes de texto ou dados e criar nuvens de palavras relevantes e legíveis.
+
+Interatividade: Algumas ferramentas oferecem recursos interativos, permitindo clicar em palavras para obter mais informações ou redirecionar para a fonte original.
+
+Exportação e Compartilhamento: Capacidade de exportar a nuvem de palavras em diferentes formatos de imagem ou compartilhá-la diretamente em redes sociais ou outras plataformas.
+
+Análise Adicional: Em alguns casos, essas ferramentas podem oferecer recursos adicionais, como análise de sentimentos para destacar palavras positivas, negativas ou neutras.
+
+Agrupamento e Personalização avançada: Algumas ferramentas permitem agrupar palavras semanticamente relacionadas ou aplicar diferentes algoritmos para arranjar as palavras na nuvem de maneira mais sofisticada.
+
+Integração com outras ferramentas: Integração com outras ferramentas ou plataformas para facilitar o uso da nuvem de palavras em apresentações, relatórios ou análises.
+
+Essas são algumas das competências típicas que uma ferramenta de Word Cloud costuma oferecer, embora a disponibilidade desses recursos possa variar de acordo com o software ou aplicação específica utilizada.
+
+
+
+
+
